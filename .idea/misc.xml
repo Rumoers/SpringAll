@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/SpringBoot-Swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-Devtools/pom.xml" />
       </list>
     </option>
   </component>
